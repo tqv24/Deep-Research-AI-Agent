@@ -2,6 +2,8 @@
 
 An intelligent AI-powered research tool that automatically conducts comprehensive research on any topic and generates detailed reports. Built with a multi-agent architecture using OpenAI's models and featuring a sleek Gradio web interface.
 
+![alt text](<image.png>)
+
 ## Features
 
 - **Multi-Agent Architecture**: Utilizes specialized AI agents working together to deliver comprehensive research
